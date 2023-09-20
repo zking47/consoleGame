@@ -37,7 +37,7 @@ namespace PairProgramming.Data.Entities
                 sentencePhrase = $"It was the first time he had ever seen someone {sentenceVariable} on an elephant.";
                 break;
                 case 4:
-                sentencePhrase = $"In the end, he realized he could {sentenceVariable} sound and hear words.";
+                sentencePhrase = $"In the end, he realized he was {sentenceVariable} sound and hearing words.";
                 break;
                 default:
                 sentencePhrase = "Consult your local developer, something went wrong.";

@@ -35,8 +35,8 @@ namespace PairProgramming.UI
             {
                 Clear();
                 System.Console.WriteLine(
-                "Mad Libs\n"+
-                "Please Choose a Category\n"+
+                "Console Mad Libs\n"+
+                "Please Choose a Word Type to Insert\n"+
                 "1. Verb\n"+
                 "2. Noun\n"+
                 "3. Adjective\n"+
